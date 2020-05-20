@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Runnable</string>
+    <string name="edit_password">Edit password</string>
+    <string name="enter_new_password">Enter new password</string>
+    <string name="enter_e_mail">Enter e-mail</string>
+    <string name="textview">TextView</string>
+    <string name="please_enter_e_mail">Please enter e-mail</string>
+    <string name="login">Login</string>
+</resources>
